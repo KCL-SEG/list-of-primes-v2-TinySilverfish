@@ -18,4 +18,4 @@ def primes(number_of_primes):
 		i += 1
 	return list
 
-print(primes(0))
+# print(primes(0))
